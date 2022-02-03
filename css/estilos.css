@@ -22,7 +22,7 @@ body
 {
     padding: 0 0 0 1em;
     font-weight: normal;
-    font-size: 0.8em;
+    font-size: 1.0em;
 }
 
 #container
@@ -41,4 +41,11 @@ body
 #post
 {
     padding: 1em;
+}
+#footer
+{
+    background: #777;
+    color: whitesmoke; 
+    text-align: center;
+    padding: 00.5em;
 }
