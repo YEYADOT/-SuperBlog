@@ -1,28 +1,37 @@
 body
 {
-    color: #334;
+    background: #1e1f24;
+    color: #333;
     text-align: center;
     font-family: "Arial";
-    font-size: 16px;
+    font-size: 18px;
     margin: 0;
     padding: 0;
 }
 
 #cabecera
 {
-    background: #33A;
-    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    background: #7f1bc2;
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.5);
     color: white;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
 }
-
+#cabecera #logo
+{
+    width: 60px;
+    vertical-align: middle;
+}
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
     font-weight: normal;
-    font-size: 0.8em;
+<<<<<<< HEAD
+    font-size: 25px;
+=======
+    font-size: 1.0em;
+>>>>>>> 318b3cabf0962e88ddaf52da77e76e2d04dda9c7
 }
 
 #container
@@ -36,9 +45,21 @@ body
 
 #container h1
 {
-    font-size: 20px;
+    font-size: 25px;
 }
 #post
 {
+    background: white;
     padding: 1em;
+}
+#footer
+{
+    background: #777;
+    color: whitesmoke; 
+    text-align: center;
+    padding: 00.5em;
+}
+#piepagina
+{
+    size: 5px;
 }
