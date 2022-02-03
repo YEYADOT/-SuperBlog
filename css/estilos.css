@@ -27,7 +27,11 @@ body
 {
     padding: 0 0 0 1em;
     font-weight: normal;
+<<<<<<< HEAD
     font-size: 25px;
+=======
+    font-size: 1.0em;
+>>>>>>> 318b3cabf0962e88ddaf52da77e76e2d04dda9c7
 }
 
 #container
@@ -47,4 +51,15 @@ body
 {
     background: white;
     padding: 1em;
+}
+#footer
+{
+    background: #777;
+    color: whitesmoke; 
+    text-align: center;
+    padding: 00.5em;
+}
+#piepagina
+{
+    size: 5px;
 }
